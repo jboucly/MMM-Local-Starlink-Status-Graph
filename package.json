@@ -1,7 +1,7 @@
 {
     "name": "mnmm-local-starlink-status-graph",
     "license": "MIT",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "main": "MMM-Local-Starlink-Status-Graph.js",
     "description": "A MagicMirror² module to display a graph of local Starlink status.",
     "homepage": "https://github.com/jboucly/MMM-Local-Starlink-Status-Graph#readme",
